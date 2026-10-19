@@ -1,4 +1,4 @@
-# GoMining Agent Skills
+=# GoMining Agent Skills
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 [![Agent Skills](https://img.shields.io/badge/Agent%20Skills-v1.0-green.svg)](https://agentskills.io)
